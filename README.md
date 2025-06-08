@@ -22,7 +22,7 @@ APP_INSTALL(ServoContrl);
 The(Func)function will be called when you entering the App!
 The App will be install in System, then the Icon & Name will appear in AppManager like this:
 
-![System UI](Images\system_ui.jpg)
+![System UI](./Images/system_ui.png)
 
 You can use two keys to select APP, and a key to enter, I used a rotary encoder to control the cursor here, you can see a GIF:
 
